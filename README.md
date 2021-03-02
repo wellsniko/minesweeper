@@ -1,0 +1,1 @@
+npm install then copy index.html path to your browser to play.
